@@ -21,7 +21,28 @@ Unlike heavy web-based monitors or ad-cluttered tools, SpeedMeterPro runs unobtr
 
 ---
 
-## ✨ Key Features
+## 📸 Desktop Application Preview
+
+<div align="center">
+  <p><b>Always-on-Top Floating Speed Widget & Taskbar HUD:</b></p>
+  <img src="screenshots/speed_raw.png" width="300" alt="Always-on-top Floating Desktop Widget" />
+</div>
+
+<br/>
+
+<div align="center">
+  <p><b>Main Analytics Dashboard & Precision Network Telemetry:</b></p>
+  <img src="screenshots/speed_clean.png" width="850" alt="SpeedMeterPro Analytics Dashboard" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="screenshots/speed_raw2.png" width="420" alt="Speed Test & Latency Graph" />
+  <img src="screenshots/speed_final.png" width="420" alt="Adapter Inspection & Usage Quota" />
+</div>
+
+---
 
 - ⚡ **Floating Desktop Widget:** Sleek, customizable always-on-top overlay showing current download/upload speed. Fully movable with adjustable opacity and dark/light theme presets.
 - 📊 **Comprehensive Analytics Dashboard:** Full window interface detailing current session statistics, historical bandwidth consumption, and peak speeds.
